@@ -1,0 +1,44 @@
+.header {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    align-content: center;
+}
+
+thead th {
+    padding: 10px;
+}
+
+
+td {
+    text-align: center;
+    padding: 10px
+}
+
+
+tr,
+tbody td {
+    border: 2px solid black;
+}
+
+tbody th {
+    border: 2px solid black;
+    
+}
+
+.text-setting {
+    text-align: left;
+    padding-left: 10px
+}
+
+.setting {
+    align-content: start;
+    padding-top: 10px;
+}
