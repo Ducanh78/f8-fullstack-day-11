@@ -25,12 +25,7 @@ td {
 
 tr,
 tbody td {
-    border: 2px solid black;
-}
-
-tbody th {
-    border: 2px solid black;
-    
+    border: 2.5px solid black;
 }
 
 .text-setting {
@@ -41,4 +36,12 @@ tbody th {
 .setting {
     align-content: start;
     padding-top: 10px;
+}
+
+.get-bold {
+    font-weight: 800;
+}
+
+.get-light {
+    font-weight: 500;
 }
